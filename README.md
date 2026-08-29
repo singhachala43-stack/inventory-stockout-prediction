@@ -1,4 +1,10 @@
 [README.md](https://github.com/user-attachments/files/31598387/README.md)
+**Inventory Overview**
+![Inventory Overview](dashboard_screenshot/dashboard_overview1.png)
+
+**High-Risk Products**
+![High-Risk Products](dashboard_screenshot/dashboard_overview2.png)
+
 # inventory-stockout-prediction
 ML pipeline predicting inventory stockout risk and revenue at risk using SQL, Python, and Power BI
 # Inventory & Stockout Prediction + Demand Analysis
